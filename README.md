@@ -1,5 +1,12 @@
 # Clean Code 2021
 
+## ️ Group members <a name = "authors"></a>
+
+* [Monika Ciężka](https://github.com/monikaciezka)
+* [Hubert Gawłowski](https://github.com/hubertgaw)
+* [Kamil Kiszko-Zgierski](https://github.com/KiszczixIsCoding)
+* [Martyna Piasecka](https://github.com/MartynaCys)
+
 **Zadanie 1:** Clean Code
 
 Klasa `pl.zzpj2021.cleancode.doIt` nie przestrzega zasad Clean Code. Przerefaktoruj kod zgodnie z zasadami poznanymi podczas wykładu.
